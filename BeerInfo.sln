@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerInfo", "BeerInfo\BeerInfo.csproj", "{1A6B7120-52B4-4691-83FB-D9F94F86B130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerServer", "BeerServer\BeerServer.csproj", "{193BBF17-5868-4519-8479-AB29617D0044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6B7120-52B4-4691-83FB-D9F94F86B130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6B7120-52B4-4691-83FB-D9F94F86B130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6B7120-52B4-4691-83FB-D9F94F86B130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6B7120-52B4-4691-83FB-D9F94F86B130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193BBF17-5868-4519-8479-AB29617D0044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193BBF17-5868-4519-8479-AB29617D0044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193BBF17-5868-4519-8479-AB29617D0044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193BBF17-5868-4519-8479-AB29617D0044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523308D7-FA4F-4C39-8227-88A7BD131BC3}
+	EndGlobalSection
+EndGlobal
